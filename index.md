@@ -10,7 +10,7 @@ I'm interested in the way people work together to analyse information, and how w
 
 You and a friend will work together to complete a simple task, then we will finish up with a quick chat about the task and your thoughts and opinions about it.
 
-The whole thing takes 1 hour *maximum*, and we can be flexible about location and times. 
+The whole thing takes 1 hour *maximum*, and our lab is in Central London. We can be flexible about location and times. 
 
 Not only will you gain my Eternal Gratitude and assist Scientific Progress, but also I can reward you with tasty baked goods/snacks/beverages!
 
