@@ -151,3 +151,12 @@ pre > code {
   margin: 0 auto;
   padding: 0 1rem;
 }
+
+/* Participate! custom css */
+
+/*for ethics and stuff like that*/
+.smallprint {
+  font-size: 0.8rem;
+  color: darkgrey;
+  margin-top: 2.2rem;  
+}
