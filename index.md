@@ -12,7 +12,7 @@ You and a friend will work together to complete a simple task, then we will fini
 
 The whole thing takes 1 hour *maximum*, and we can be flexible about location and times. 
 
-Not only will you gain my Eternal Gratitude and assist Scientific Progress, but also I can reward you with tasty baked goods/ snacks/beverages!
+Not only will you gain my Eternal Gratitude and assist Scientific Progress, but also I can reward you with tasty baked goods/snacks/beverages!
 
 <a href="mailto:geraint.jones@ucl.ac.uk?Subject=Experiment signup" target="_top">Drop me an email</a>
 for more info or to sign up! 
