@@ -2,6 +2,7 @@
 title: Participate!
 tag_text: Participate!
 description: Awesome experiment signup page (for awesome participants).
+ethics: _This experiment has been granted ethical approval by the UCLIC Ethics Chair (approval no. UCLIC/1415/004/PhD Rogers/ Jones ), and this research is supported by an ESPRC doctoral training grant._ 
 
 # Build settings
 markdown: kramdown
