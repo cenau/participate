@@ -17,4 +17,4 @@ Not only will you gain my Eternal Gratitude and assist Scientific Progress, but 
 <a href="mailto:geraint.jones@ucl.ac.uk?Subject=Experiment signup" target="_top">Drop me an email</a>
 for more info or to sign up! 
 
-_This experiment has been granted ethical approval by the UCLIC Ethics Chair (approval no. XXXXXXXX ), and this research is supported by an ESPRC doctoral training grant._ 
+_This experiment has been granted ethical approval by the UCLIC Ethics Chair (approval no. *UCLIC/1415/004/PhD Rogers/ Jones* ), and this research is supported by an ESPRC doctoral training grant._ 
