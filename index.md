@@ -14,6 +14,8 @@ The whole thing takes 1 hour *maximum*, and our lab is in Central London. We can
 
 Not only will you gain my Eternal Gratitude and assist Scientific Progress, but also I can reward you with tasty baked goods/snacks/beverages!
 
+*nb* A few people have asked - yes, you *can* take part if you are a UXer, Designer, etc. So please do!
+
 <a href="mailto:geraint.jones@ucl.ac.uk?Subject=Experiment signup" target="_top">Drop me an email</a>
 for more info or to sign up! 
 
