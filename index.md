@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## Take part in my experiment! 
-Help me out with my PhD research; get hold of a friend and <a href="mailto:geraint.jones@ucl.ac.uk?Subject=Experiment signup" target="_top">sign up for my experiment!</a>
+Help me out with my PhD research; get hold of a friend and <a href="mailto:geraint.jones@ucl.ac.uk?Subject=Experiment signup" target="_top">email me to sign up for my experiment!</a>
 
 ## Whats it all about?
 I'm interested in the way people work together to analyse information, and how we can design systems to support this. I can tell you more after you've taken part in the experiment :-) 
